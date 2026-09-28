@@ -8,11 +8,11 @@ Building responsive, scalable & user-focused web applications.
 
 <br />
 
-<a href="https://sauravnegi.vercel.app/">
+<a href="https://sauravnegi.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sauravnegi007">
+<a href="https://www.linkedin.com/in/sauravnegi007" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
